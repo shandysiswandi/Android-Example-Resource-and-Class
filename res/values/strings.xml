@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="title_home">Home</string>
+    <string name="contentDescription">Content Description</string>
+</resources>
