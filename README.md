@@ -19,10 +19,6 @@ adalah contoh-contoh xml atau class dalam pemprograman android.
   - navigation
   - values
 - tnt (Tricks n Tips)
-  - Hidden Toolbar When Scroll
-  - Appbar Elevation When Scroll
-
-## Links
-
-- [Hidden Toolbar When Scroll](tnt/appbar-hide-when-scrolling-content.md)
-- [Appbar Elevation When Scroll](tnt/appbar-elevation-on-scrolling.md)
+  - [Hidden Toolbar When Scroll](tnt/appbar-hide-when-scrolling-content.md)
+  - [Appbar Elevation When Scroll](tnt/appbar-elevation-on-scrolling.md)
+  - [List of Permission](tnt/list-of-permission.md)
